@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adiaslow
 - 👀 I’m interested in neural data science, signal processing, artificial intellegence, game development, and sound design.
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning everything all at once all of the time.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: e-mail me at a.murray0413@gmail.com
 
