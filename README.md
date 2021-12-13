@@ -8,7 +8,7 @@
 - Steam: Adiaslow https://steamcommunity.com/profiles/76561198279965436/
 - Instagram for @superlovebot: https://www.instagram.com/superlovebot/ (On hold. Waiting for GPU upgrade.)
 - LinkedIn: https://www.linkedin.com/in/adam-murray-28a327114/
-- Neurotherapy Clinic: https://www.montereybayneurofeedback.com/
+- Work - Neurotherapy Clinic: https://www.montereybayneurofeedback.com/
 
 <!---
 Adiaslow/Adiaslow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
