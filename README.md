@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to navigate the EEGLAB plugin for MATLAB and how to impliment the various alogrithms in the game I am developing.
 - 💞️ I’m currently collaboratiing with my brother, Sean Murray, on my game called "Cloth of Gold".
 - 📫 How to reach me: e-mail me at a.murray0413@gmail.com
+                       play with me Adiaslow on Steam
 
 <!---
 Adiaslow/Adiaslow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
