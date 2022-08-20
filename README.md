@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam Murray (@Adiaslow)
-- 👀 I’m interested in signal processing, artificial intellegence, molecular dynamics, cellular automata, noise alogorithms, game development, and sound design.
+- 👀 I’m interested in signal processing, machine learning, molecular dynamics, cellular automata, noise alogorithms, game development, and sound design.
 - 🌱 I’m currently practicing solving problem sets.
 - 💞️ I’m currently not collaborating with anyone. 
 - 📫 How to reach me: 
