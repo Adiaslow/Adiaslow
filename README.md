@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Murray (@Adiaslow)
-- 👀 I’m interested in EEG signal processing, artificial intellegence, cellular automata, noise alogorithms, game development, and sound design.
-- 🌱 I’m currently developing programs in python related to peptide library creation and cheminformatics at Universty of California, Santa Cruz.
+- 👀 I’m interested in signal processing, artificial intellegence, molecular dynamics, cellular automata, noise alogorithms, game development, and sound design.
+- 🌱 I’m currently practicing solving problem sets.
 - 💞️ I’m currently not collaborating with anyone. 
 - 📫 How to reach me: 
 - E-mail: a.murray0413@gmail.com
