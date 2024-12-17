@@ -12,6 +12,7 @@ Biomolecular Engineering student and researcher at UC Santa Cruz, specializing i
 
 Currently collaborating with:
 - 🔬 Lokey Lab at UCSC on cyclic peptide DEL data analysis, chromatographic peak picking algorihms, and library design and analysis tools
+- 🧠 Kim Lab at UCSC on a modern python implementation of intrinsic signal imaging analysis
 - 🧫 Yarov-Yarovoy at UCD on deep learning-based *de novo* protein design targeting ion channels
 
 📫 Connect with me:
