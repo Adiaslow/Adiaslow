@@ -1,24 +1,29 @@
-- 👋 Hi, I’m Adam Murray (@Adiaslow)
-- 👀 I’m interested in:
-  - machine learning
-  - protein/peptide design
-  - genetic algorithms
-  - graph algorithms
-- 🌱 I’m currently obsessing over:
-  - graph theory
-  - transformer architectures
-  - NEAT and PPO
-  - Constraint satisfaction
-- 📫 How to reach me: 
-  - E-mail: a.murray0413@gmail.com, ammurra@ucsc.edu
-  - Discord: Adiaslow#9941
+<table>
+<tr>
+<td width="60%">
 
-<!-- Make it compact layout -->
+# 👋 Hi, I'm Adam Murray (@Adiaslow)
+
+Biomolecular Engineering student and researcher at UC Santa Cruz, specializing in geometric deep learning and protein design. I combine 15 years of programming experience with expertise in cheminformatics and computational biology to develop novel solutions in:
+- 🧬 Protein/peptide engineering
+- 🤖 Graph transformers & ML architectures
+- 🧪 Molecular docking & drug design
+- 📊 Scientific visualization & analysis pipelines
+
+Currently collaborating with:
+- 🔬 Lokey Lab at UCSC on cyclic peptide DEL data analysis, chromatographic peak picking algorihms, and library design and analysis tools
+- 🧫 Yarov-Yarovoy at UCD on deep learning-based *de novo* protein design targeting ion channels
+
+📫 Connect with me:
+- Email: a.murray0413@gmail.com
+- Academic: ammurra@ucsc.edu
+- Discord: Adiaslow#9941
+
+</td>
+<td width="40%">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaslow&card_width=400&langs_count=17&theme=dracula)
 
-
-
-<!---
-Adiaslow/Adiaslow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</td>
+</tr>
+</table>
