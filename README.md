@@ -14,7 +14,7 @@
   - Discord: Adiaslow#9941
 
 <!-- Make it compact layout -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaslow&card_width=400&langs_count=17&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaslow&card_width=400&langs_count=17&theme=dracula)
 
 
 
