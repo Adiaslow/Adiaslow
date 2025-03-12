@@ -20,6 +20,10 @@ Currently collaborating with:
 - Academic: ammurra@ucsc.edu
 - Discord: Adiaslow#9941
 
+
+
+[![Altmetric Profile](https://badges.altmetric.com/?orcid=0009-0006-1673-9485)](https://www.altmetric.com/details/orcid/0009-0006-1673-9485)
+
 </td>
 <td width="40%">
 
