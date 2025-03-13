@@ -1,3 +1,4 @@
+
 <table>
 <tr>
 <td width="60%">
@@ -33,22 +34,15 @@ Currently collaborating with:
 # Publications:
 - **Computational design of NaV1.8 sodium channel inhibitors as novel non-addictive treatments for pain management**  
   *Biophysical Journal (2025)*
-  
-  <div data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.bpj.2024.11.2816" class="altmetric-embed"></div>
 
   [DOI: 10.1016/j.bpj.2024.11.2816](https://doi.org/10.1016/j.bpj.2024.11.2816)
 
 - **Structural modeling of ion channels using AlphaFold2, RoseTTAFold2, and ESMFold**  
   *Channels (2024)*
-  
-  <div data-badge-popover="right" data-badge-type="2" data-doi="10.1080/19336950.2024.2325032" class="altmetric-embed"></div>
-  
+    
   [DOI: 10.1080/19336950.2024.2325032](https://doi.org/10.1080/19336950.2024.2325032)
 
 - **Computational design of binders targeting the VSDIV from NaV1.7 sodium channel**  
   *Biophysical Journal (2024)*  
 
-  <div data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.bpj.2023.11.770" class="altmetric-embed"></div>
-
   [DOI: 10.1016/j.bpj.2023.11.770](https://doi.org/10.1016/j.bpj.2023.11.770)
-
