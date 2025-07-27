@@ -32,6 +32,11 @@ Currently collaborating with:
 </table>
 
 # Publications:
+- **Massively parallel, single-molecule assessment of synthetic fidelity and drug-like properties in a DNA-encoded library**  
+  *ChemRxiv (2025)*
+
+  [DOI: 10.26434/chemrxiv-2025-rlwvx](https://chemrxiv.org/engage/chemrxiv/article-details/686f182ee1957b8c61108423)
+
 - **Computational design of NaV1.8 sodium channel inhibitors as novel non-addictive treatments for pain management**  
   *Biophysical Journal (2025)*
 
