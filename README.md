@@ -24,7 +24,7 @@ Currently collaborating with:
 </td>
 <td width="40%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaslow&card_width=400&langs_count=17&theme=dracula) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiaslow&card_width=400&langs_count=20&theme=dracula) 
 <!-- (&exclude_repo=Cloth-of-Gold-Unity2D) -->
 
 </td>
