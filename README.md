@@ -19,7 +19,7 @@ My work sits at the intersection of cheminformatics, geometric deep learning, an
 
 </td>
 <td width="40%">
-[![Top Langs](https://api.githubtrends.io/user/svg/Adiaslow/langs?time_range=one_year&loc_metric=changed&theme=dracula)](https://github.com/Adiaslow)
+![Top Langs](./profile-summary-card-output/dracula/2-most-commit-language.svg)
 
 </td>
 </tr>
