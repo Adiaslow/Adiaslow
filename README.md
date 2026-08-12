@@ -18,9 +18,10 @@ My work sits at the intersection of cheminformatics, geometric deep learning, an
 - a.murray0413@gmail.com
 
 </td>
-<td width="40%">
-[![Top Languages](https://github-stats-extended-kappa.vercel.app/api/top-langs?username=Adiaslow&langs_count=20&theme=dracula&v=1)](https://github.com/Adiaslow)
-
+<td width="40%" align="center">
+  <a href="https://github.com/Adiaslow">
+    <img alt="Top Languages" src="https://github-stats-extended-kappa.vercel.app/api/top-langs?username=Adiaslow&amp;langs_count=20&amp;theme=dracula&amp;v=2">
+  </a>
 </td>
 </tr>
 </table>
