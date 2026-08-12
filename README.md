@@ -19,7 +19,7 @@ My work sits at the intersection of cheminformatics, geometric deep learning, an
 
 </td>
 <td width="40%">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Adiaslow&langs_count=20&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=Adiaslow&langs_count=20&theme=dracula)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Adiaslow&langs_count=20&theme=dracula&v=2)](https://github.com/Adiaslow)
 
 </td>
 </tr>
