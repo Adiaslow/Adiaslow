@@ -19,7 +19,7 @@ My work sits at the intersection of cheminformatics, geometric deep learning, an
 
 </td>
 <td width="40%">
-![Top Langs](./profile-summary-card-output/dracula/2-most-commit-language.svg)
+[![Top Languages](https://github-stats-extended-kappa.vercel.app/api/top-langs?username=Adiaslow&langs_count=20&theme=dracula)](https://github.com/Adiaslow)
 
 </td>
 </tr>
